@@ -3,9 +3,7 @@ main:
   #    url: /categories/
   #  - title: "Tags"
   #    url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Projects"
-    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
