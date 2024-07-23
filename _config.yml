@@ -21,7 +21,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/Sanne Smith.jpg"
+  avatar : "/assets/images/Sanne Smith.png"
   bio    : ""
   links:
     - label: "Twitter"
