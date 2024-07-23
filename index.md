@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
-excerpt: "My name is Sanne Smith and I am a lecturer and program director at the Stanford Graduate School of Education."
+excerpt: ""
 intro: 
   - excerpt: 'My name is Sanne Smith and I am a lecturer and program director at the Stanford Graduate School of Education.'
 feature_row:
