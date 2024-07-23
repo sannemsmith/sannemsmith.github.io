@@ -1,14 +1,14 @@
 ---
-title: "EDS Program Portfolio"
+title: "Hello!"
 layout: splash
 date: 2024-04-17
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
-excerpt: "My doctoral journey in linguistics at Cornell University involves rigorous research, deep exploration, and scholarly contributions to the field."
+excerpt: "My name is Sanne Smith and I am a lecturer and program director at the Stanford Graduate School of Education."
 intro: 
-  - excerpt: 'As a doctoral student in Linguistics at Cornell University, I delve into complex areas such as syntax, phonology, morphology, semantics, pragmatics, historical linguistics, sociolinguistics, psycholinguistics, computational linguistics, corpus linguistics, typology, laboratory research, and fieldwork.'
+  - excerpt: 'My name is Sanne Smith and I am a lecturer and program director at the Stanford Graduate School of Education.'
 feature_row:
   - image_path: /assets/images/feat1.jpg
     title: "History Collaborative"
