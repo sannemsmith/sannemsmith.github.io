@@ -1,5 +1,5 @@
-title: Jane Stanford
-email: your-email@example.com
+title: Sanne Smith
+email: sannesmith@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -24,40 +24,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jane Stanford"
+  name   : "Sanne Smith"
   avatar : "/assets/images/janestanford.jpg"
-  bio    : "I and Leland we build university systems for the ages"
+  bio    : ""
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://quake06.stanford.edu/centennial/gallery/people/stanfords/index.html"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/janelstanford"
+      url: "https://twitter.com/sanne_m_smith"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Stanford"
+      url: "https://github.com/sannemsmith"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/school/stanford-university/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stanford"
+      url: "https://www.linkedin.com/in/sannesmith/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/janelstanford"
+      url: "https://twitter.com/sanne_m_smith"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Stanford"
+      url: "https://github.com/sannemsmith"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/school/stanford-university/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stanford"
+      url: "https://www.linkedin.com/in/sannesmith/"
 
 defaults:
   # _posts
