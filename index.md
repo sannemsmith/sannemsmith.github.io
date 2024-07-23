@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Lecturer and Program Director"
 layout: splash
 date: 2024-04-17
 header:
@@ -8,5 +8,5 @@ header:
   overlay_image: /assets/images/classroom photo.jpg
 excerpt: ""
 intro: 
-  - excerpt: 'Lecturer and Education Data Science MS Program Director at the Stanford Graduate School of Education.'
+  - excerpt: ''
 ---
