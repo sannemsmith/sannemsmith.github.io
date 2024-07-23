@@ -7,7 +7,7 @@ I oversee the [Education Data Science MS](https://ed.stanford.edu/eds) at the St
 
 <div class="text-center">
   <img src="{{ site.baseurl }}/assets/images/eds 2025 2.jpg" alt="EDS 2025 cohort">
-</div>
+</div><br>
 
 
 If you are interested in joining the program, please find more information on the [EDS MS website](https://ed.stanford.edu/eds). I don't always manage to respond to each question individually, so be sure to sign up for virtual webinars (Fall) or in-person opportunities (Spring) to connect. You will be automatically invited to these events when you [express your interest](https://applygrad.stanford.edu/register/gse-inquiry).  
