@@ -1,9 +1,6 @@
-title: 
+title: Sanne Smith
 email: sannesmith@stanford.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Personal website of Sanne Smith, lecturer and Education Data Science MS Program Director at the Stanford Graduate School of Education
 #baseurl: /
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: mmistakes/minimal-mistakes
@@ -24,8 +21,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sanne Smith"
-  avatar : "/assets/images/Sanne Smith 2024 portrait.jpg"
+  avatar : "/assets/images/Sanne Smith.jpg"
   bio    : ""
   links:
     - label: "Twitter"
